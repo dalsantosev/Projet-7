@@ -1,4 +1,4 @@
-# Openclassrooms Projet 7 : "Menu maker by Qwenta"
+# Projet 7 du parcours d'"intégrateur web " d'Openclassroom : "Menu maker by Qwenta"
 
 A partir d'une `maquette` et de `spécifications fonctionnelles`, je dois définir les `spécifications techniques` de l'application web "**Menu Maker By Qwenta**".
 
